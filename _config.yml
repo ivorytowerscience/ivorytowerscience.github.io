@@ -1,6 +1,11 @@
 name: Ivory Tower Science
 tagline: Our mission includes technical, scientific research from fundamental to applied level as well as topics related to sociology, culture, and economics. The Ivory Tower produces small-batch, craft beverages with the help from students, faculty, and volunteers dedicated to the discipline.
 title: Ivory Tower Science
+url: http://ivorytowerscience.com
 exclude: [Gemfile, Gemfile.lock, README.md]
 sass:
   style: compressed
+
+gems:
+  - jekyll-seo-tag
+
