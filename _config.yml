@@ -1,5 +1,5 @@
 name: Ivory Tower Science
-tagline: Our mission includes technical, scientific research from fundamental to applied level as well as topics related to sociology, culture, and economics. The Ivory Tower produces small-batch, craft beverages with the help from students, faculty, and volunteers dedicated to the discipline.
+tagline: Our mission is to support education and research in fermentation sciences. Ivory Tower hosts the annual High Country Beer Fest, one of the premier events of the High Country, and produces small-batch, craft beverages with local businesses to raise revenue and awareness of the craft and provide educational and training opportunities for students of the craft.
 title: Ivory Tower Science
 url: http://ivorytowerscience.com
 exclude: [Gemfile, Gemfile.lock, README.md, CNAME]
